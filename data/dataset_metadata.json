@@ -1,0 +1,8 @@
+{
+  "dataset_name": "PSV Charter Rates GCC 2020-2025",
+  "description": "Synthetic dataset of Platform Supply Vessel charter rates in the GCC region",
+  "source": "Synthetically generated based on market patterns",
+  "period": "2020-2025",
+  "region": "GCC",
+  "status": "placeholder"
+}
